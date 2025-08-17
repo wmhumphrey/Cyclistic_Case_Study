@@ -1,6 +1,6 @@
-# 🚲 Cyclistic Bike Share Case Study  
+# Cyclistic Bike Share Case Study  
 
-## 📌 Project Overview  
+## Project Overview  
 This project analyzes the **Cyclistic bike share dataset** to understand the differences between **casual riders** and **annual members**. The goal is to provide insights that can help design strategies to **convert casual users into annual members**.  
 
 The project was completed as part of my **Google Data Analytics Capstone** and extended with R and Tableau for advanced analysis and visualization.  
@@ -15,7 +15,7 @@ The project was completed as part of my **Google Data Analytics Capstone** and e
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 ```
 Cyclistic-Bike-Share-Analysis/
 │
@@ -31,7 +31,7 @@ Cyclistic-Bike-Share-Analysis/
 
 ---
 
-## 🔑 Key Steps  
+## Key Steps  
 
 ### 1. Data Preparation (R)  
 - Combined **Q1 2019–2020 quarterly data**  
@@ -58,19 +58,19 @@ Dashboards created in Tableau to highlight usage patterns:
 
 ---
 
-## 📊 Tableau Dashboard  
-👉 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/yourname/viz/CyclisticAnalysis/Dashboard1)  
+## Tableau Dashboards 
+[View the Interactive Dashboards on Tableau Public](https://public.tableau.com/app/profile/wyatt.humphrey/viz/CyclisticEDAVizualizations/CyclisticDataVisualizations?publish=yes)  
 
 *(If you’re viewing this on GitHub, click the link above for the interactive version. Screenshots are included below for quick reference.)*  
 
 ---
 
-## 📷 Sample Visuals  
+## Sample Visuals  
 ![Dashboard Preview](./images/dashboard_preview.png)  
 
 ---
 
-## 🚀 How to Reproduce  
+## How to Reproduce  
 1. Clone this repo  
    ```bash
    git clone https://github.com/yourusername/Cyclistic-Bike-Share-Analysis.git
@@ -81,15 +81,15 @@ Dashboards created in Tableau to highlight usage patterns:
 
 ---
 
-## 📌 Next Steps  
+## Next Steps  
 - Add predictive modeling (e.g., forecasting seasonal demand)  
 - Optimize dashboard filters for smoother interactivity  
 - Explore demographic data (if available) to enrich insights  
 
 ---
 
-## 📬 Contact  
-Created by **[Your Name]**  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Tableau Public](https://public.tableau.com/app/profile/yourname)  
-- [GitHub](https://github.com/yourusername)  
+## Contact  
+Created by **Wyatt Humphrey**  
+- [LinkedIn](linkedin.com/in/wyatt-humphrey-560067358)  
+- [Tableau Public](https://public.tableau.com/app/profile/wyatt.humphrey)  
+- [GitHub](https://github.com/wmhumphrey)  
