@@ -1,0 +1,15 @@
+all_trips_v2$member_casual,all_trips_v2$day_of_week,all_trips_v2$ride_length
+casual,Sunday,5061.304364143255
+member,Sunday,972.938335797465
+casual,Monday,4752.050438204257
+member,Monday,822.3112016662138
+casual,Tuesday,4561.8038572014775
+member,Tuesday,769.4416287683435
+casual,Wednesday,4480.372431729519
+member,Wednesday,711.9837902577481
+casual,Thursday,8451.66685322513
+member,Thursday,707.2092742837066
+casual,Friday,6090.737301884437
+member,Friday,796.7337888996943
+casual,Saturday,4950.770800860982
+member,Saturday,974.0729638294649
