@@ -1,0 +1,31 @@
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# R Markdown cache/output
+*_cache/
+*.utf8.md
+*.knit.md
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+QuarterlyData/
+data/
+raw_data/
+output/
+
+# Tableau
+*.twb
+*.twbx
+My Tableau Repository/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+~$*
