@@ -17,7 +17,7 @@ The project was completed as part of my **Google Data Analytics Capstone** and e
 
 ## Project Structure  
 ```
-Cyclistic-Bike-Share-Analysis/
+Cyclistic_Case_Study/
 │
 ├── data/                  # Processed summary CSVs (non-sensitive only)
 ├── R/                     # R scripts and R Markdown files
@@ -73,7 +73,7 @@ Dashboards created in Tableau to highlight usage patterns:
 ## How to Reproduce  
 1. Clone this repo  
    ```bash
-   git clone https://github.com/yourusername/Cyclistic-Bike-Share-Analysis.git
+   git clone https://github.com/wmhumphrey/Cyclistic_Case_Study.git
    ```
 2. Open `R/data_prep.Rmd` in RStudio and knit to generate summary CSVs  
 3. Open `tableau/CyclisticDashboard.twbx` in Tableau Desktop  
