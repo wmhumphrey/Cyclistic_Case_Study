@@ -19,12 +19,12 @@ The project was completed as part of my **Google Data Analytics Capstone** and e
 ```
 Cyclistic_Case_Study/
 │
-├── data/                  # Processed summary CSVs (non-sensitive only)
+├── Data/                  # Processed summary CSVs (non-sensitive only)
 ├── R/                     # R scripts and R Markdown files
 │   └── CyclisticCaseStudy.Rmd
-├── tableau/               # Tableau workbook (.twbx) or exports
+├── Tableau/               # Tableau workbook (.twbx) or exports
 │   └── CyclisticEDAVizualizations.twbx
-├── images/                # Screenshots of Tableau dashboards
+├── Images/                # Screenshots of Tableau dashboards
 ├── README.md              # Project overview (this file)
 └── LICENSE
 ```
@@ -66,9 +66,9 @@ Dashboards created in Tableau to highlight usage patterns:
 ---
 
 ## Sample Visuals  
-![Station Maps](./images/StationMaps.png)
-![Top Ten Stations](./images/TopTen.png)
-![Ride Usage](./images/RideUsage.png)
+![Station Maps](./Images/StationMaps.png)
+![Top Ten Stations](./Images/TopTen.png)
+![Ride Usage](./Images/RideUsage.png)
 
 ---
 
