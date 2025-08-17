@@ -7,7 +7,7 @@ The project was completed as part of my **Google Data Analytics Capstone** and e
 
 ---
 
-## 🛠 Tools & Technologies  
+## Tools & Technologies  
 - **R / RStudio** → Data cleaning, transformation, and feature engineering  
 - **R Markdown** → Reproducible analysis documentation  
 - **Tableau** → Interactive dashboards and visual storytelling  
