@@ -15,6 +15,10 @@ The project was completed as part of my **Google Data Analytics Capstone** and e
 
 ---
 
+## Data Source
+This analysis uses public Divvy bike share trip data provided by Lyft/Motivate International Inc.  
+The data is available at: [Divvy Tripdata Archive](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 ## Project Structure  
 ```
 Cyclistic_Case_Study/
