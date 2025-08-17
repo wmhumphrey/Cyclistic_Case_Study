@@ -21,9 +21,9 @@ Cyclistic_Case_Study/
 │
 ├── data/                  # Processed summary CSVs (non-sensitive only)
 ├── R/                     # R scripts and R Markdown files
-│   └── data_prep.Rmd
+│   └── CyclisticCaseStudy.Rmd
 ├── tableau/               # Tableau workbook (.twbx) or exports
-│   └── CyclisticDashboard.twbx
+│   └── CyclisticEDAVizualizations.twbx
 ├── images/                # Screenshots of Tableau dashboards
 ├── README.md              # Project overview (this file)
 └── LICENSE
@@ -66,7 +66,9 @@ Dashboards created in Tableau to highlight usage patterns:
 ---
 
 ## Sample Visuals  
-![Dashboard Preview](./images/dashboard_preview.png)  
+![Station Maps](./images/StationMaps.png)
+![Top Ten Stations](./images/TopTen.png)
+![Ride Usage](./images/RideUsage.png)
 
 ---
 
@@ -75,8 +77,8 @@ Dashboards created in Tableau to highlight usage patterns:
    ```bash
    git clone https://github.com/wmhumphrey/Cyclistic_Case_Study.git
    ```
-2. Open `R/data_prep.Rmd` in RStudio and knit to generate summary CSVs  
-3. Open `tableau/CyclisticDashboard.twbx` in Tableau Desktop  
+2. Open `R/CyclisticCaseStudy.Rmd` in RStudio and knit to generate summary CSVs  
+3. Open `CyclisticEDAVizualizations.twbx` in Tableau Desktop  
 4. Connect the CSVs and refresh data sources  
 
 ---
